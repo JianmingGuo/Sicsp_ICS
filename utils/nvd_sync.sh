@@ -34,19 +34,20 @@ fi
 
 rm -f connectionSucc.txt
 
-if [ ! -d $NVDPATH ]; then
-    mkdir $NVDPATH
-fi
-cd $NVDPATH
-rm -f nvdcve*
-i=2002
+# if [ ! -d $NVDPATH ]; then
+#     mkdir $NVDPATH
+# fi
+# cd $NVDPATH
+# rm -f nvdcve*
+# i=2002
 
+year=2017
 
-year=`date +"%Y"`
-while [ $i -le $year ]; do
-      wget  http://nvd.nist.gov/download/nvdcve-$i.xml
-      i=`expr $i + 1`
-done
+# year=`date +"%Y"`
+# while [ $i -le $year ]; do
+#       wget  http://nvd.nist.gov/download/nvdcve-$i.xml
+#       i=`expr $i + 1`
+# done
 cd ..
 java -cp $CLASSPATH -Xmx512m InitializeDB $year
-echo "NVD update finished. You can remove the temporary NVD files in $NVDPATH."
+# echo "NVD update finished. You can remove the temporary NVD files in $NVDPATH."
