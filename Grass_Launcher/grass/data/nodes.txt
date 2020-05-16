@@ -1,0 +1,55 @@
+Cidr=192.168.43.111
+Network=192.168.43.0/24
+Country=null
+MAC=9c:b6:d0:bf:cb:89 (5)
+ff:ff:ff:ff:ff:ff (5)
+Manufacturer=RivetNet	Rivet Networks
+MODBUS.Role=MASTER (4)
+MODBUS.Category=MTU (4)
+MODBUS.ICSProtocol=MODBUS (4)
+Korenix.Product=Korenix 6550 (5)
+Operating System.OS=Google Linux (5)
+Solaris (5)
+Stratus (5)
+Linux 2.4/2.6 (5)
+FreeBSD (5)
+Memobus.Product=Memobus (5)
+Unitronics.Product=Socket2 (5)
+Rockwell AADvance.Category=ICS_HOST (5)
+Rockwell AADvance.Protocol=Rockwell AADvance ModbusTCP (5)
+Role=MASTER
+Category=MTU
+OS=Google Linux
+Solaris
+Stratus
+Linux 2.4/2.6
+FreeBSD
+ICSProtocol=MODBUS
+Product=Korenix 6550
+Memobus
+Socket2
+Protocol=Rockwell AADvance ModbusTCP
+
+Cidr=192.168.43.88
+Network=192.168.43.0/24
+Country=null
+MAC=9c:b6:d0:bf:cb:89 (5)
+ff:ff:ff:ff:ff:ff (5)
+Manufacturer=RivetNet	Rivet Networks
+MODBUS.Role=SLAVE (4)
+MODBUS.Category=ICS_HOST (4)
+MODBUS.ICSProtocol=MODBUS (4)
+Operating System.OS=Google Linux (5)
+Solaris (5)
+Stratus (5)
+Linux 2.4/2.6 (5)
+FreeBSD (5)
+Role=SLAVE
+Category=ICS_HOST
+OS=Google Linux
+Solaris
+Stratus
+Linux 2.4/2.6
+FreeBSD
+ICSProtocol=MODBUS
+

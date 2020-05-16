@@ -1,0 +1,100 @@
+[2020-05-16T07:41:44.157Z] Information - Logging subsystem initialized.
+[2020-05-16T07:41:44.167Z] DEBUG - GrassMarlin 3.2.1-r26
+[2020-05-16T07:41:44.169Z] Information - Loading Cidr -> GeoId Mapping from: C:\Users\DELL\Desktop\app_1\data\cidr_to_geo_id.csv
+[2020-05-16T07:41:44.363Z] Information - Cidr -> GeoId Mapping load complete.
+[2020-05-16T07:41:44.364Z] Information - Loading GeoId -> Name Mapping from: C:\Users\DELL\Desktop\app_1\data\geo_id_to_name.csv
+[2020-05-16T07:41:44.365Z] Information - GeoId -> Name Mapping load complete.
+[2020-05-16T07:41:44.381Z] DEBUG - GeoIp lookup for country Id 6255148 failed: 62.208.62.224/27, 62.208.62.128/26, 194.196.194.0/23, 62.208.62.0/25, 62.208....
+[2020-05-16T07:41:44.394Z] DEBUG - GeoIp lookup for country Id 6255147 failed: 199.40.206.0/24, 170.252.160.1, 199.40.204.0/24, 32.60.44.0/24, 203.92.218.0/...
+[2020-05-16T07:41:44.408Z] DEBUG - Unable to locate flag file for Saint Martin(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Saint_Martin.png')
+[2020-05-16T07:41:44.409Z] DEBUG - Unable to locate flag file for New Caledonia(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\New_Caledonia.png')
+[2020-05-16T07:41:44.409Z] DEBUG - Unable to locate flag file for Palau(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Palau.png')
+[2020-05-16T07:41:44.410Z] DEBUG - Unable to locate flag file for British Indian Ocean Territory(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\British_Indian_Ocean_Territory.png')
+[2020-05-16T07:41:44.411Z] DEBUG - Unable to locate flag file for Mayotte(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Mayotte.png')
+[2020-05-16T07:41:44.414Z] DEBUG - Unable to locate flag file for Guernsey(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Guernsey.png')
+[2020-05-16T07:41:44.415Z] DEBUG - Unable to locate flag file for Curaçao(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Curaao.png')
+[2020-05-16T07:41:44.415Z] DEBUG - Unable to locate flag file for Bonaire(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Bonaire.png')
+[2020-05-16T07:41:44.416Z] DEBUG - Unable to locate flag file for Republic of the Congo(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Republic_of_the_Congo.png')
+[2020-05-16T07:41:44.417Z] DEBUG - Unable to locate flag file for Congo(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Congo.png')
+[2020-05-16T07:41:44.418Z] DEBUG - Unable to locate flag file for Macao(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Macao.png')
+[2020-05-16T07:41:44.419Z] DEBUG - Unable to locate flag file for Bermuda(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Bermuda.png')
+[2020-05-16T07:41:44.419Z] DEBUG - Unable to locate flag file for Saint-Barthélemy(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\SaintBarthlemy.png')
+[2020-05-16T07:41:44.420Z] DEBUG - Unable to locate flag file for Tokelau(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Tokelau.png')
+[2020-05-16T07:41:44.422Z] DEBUG - Unable to locate flag file for Turks and Caicos Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Turks_and_Caicos_Islands.png')
+[2020-05-16T07:41:44.425Z] DEBUG - Unable to locate flag file for Cocos [Keeling] Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Cocos_Keeling_Islands.png')
+[2020-05-16T07:41:44.426Z] DEBUG - Unable to locate flag file for Wallis and Futuna(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Wallis_and_Futuna.png')
+[2020-05-16T07:41:44.427Z] DEBUG - Unable to locate flag file for Ivory Coast(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Ivory_Coast.png')
+[2020-05-16T07:41:44.428Z] DEBUG - Unable to locate flag file for Saint Pierre and Miquelon(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Saint_Pierre_and_Miquelon.png')
+[2020-05-16T07:41:44.429Z] DEBUG - Unable to locate flag file for U.S. Minor Outlying Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\US_Minor_Outlying_Islands.png')
+[2020-05-16T07:41:44.430Z] DEBUG - Unable to locate flag file for Martinique(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Martinique.png')
+[2020-05-16T07:41:44.431Z] DEBUG - Unable to locate flag file for Antarctica(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Antarctica.png')
+[2020-05-16T07:41:44.432Z] DEBUG - Unable to locate flag file for Northern Mariana Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Northern_Mariana_Islands.png')
+[2020-05-16T07:41:44.435Z] DEBUG - Unable to locate flag file for Montserrat(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Montserrat.png')
+[2020-05-16T07:41:44.435Z] DEBUG - Unable to locate flag file for Saint Helena(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Saint_Helena.png')
+[2020-05-16T07:41:44.436Z] DEBUG - Unable to locate flag file for Pitcairn Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Pitcairn_Islands.png')
+[2020-05-16T07:41:44.438Z] DEBUG - Unable to locate flag file for Guam(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Guam.png')
+[2020-05-16T07:41:44.438Z] DEBUG - Unable to locate flag file for Myanmar [Burma](expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Myanmar_Burma.png')
+[2020-05-16T07:41:44.440Z] DEBUG - Unable to locate flag file for Palestine(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Palestine.png')
+[2020-05-16T07:41:44.441Z] DEBUG - Unable to locate flag file for Cayman Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Cayman_Islands.png')
+[2020-05-16T07:41:44.444Z] DEBUG - Unable to locate flag file for Western Sahara(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Western_Sahara.png')
+[2020-05-16T07:41:44.444Z] DEBUG - Unable to locate flag file for São Tomé and Príncipe(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\So_Tom_and_Prncipe.png')
+[2020-05-16T07:41:44.446Z] DEBUG - Unable to locate flag file for Sint Maarten(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Sint_Maarten.png')
+[2020-05-16T07:41:44.446Z] DEBUG - Unable to locate flag file for U.S. Virgin Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\US_Virgin_Islands.png')
+[2020-05-16T07:41:44.447Z] DEBUG - Unable to locate flag file for Anguilla(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Anguilla.png')
+[2020-05-16T07:41:44.447Z] DEBUG - Unable to locate flag file for Guadeloupe(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Guadeloupe.png')
+[2020-05-16T07:41:44.448Z] DEBUG - Unable to locate flag file for British Virgin Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\British_Virgin_Islands.png')
+[2020-05-16T07:41:44.450Z] DEBUG - Unable to locate flag file for Svalbard and Jan Mayen(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Svalbard_and_Jan_Mayen.png')
+[2020-05-16T07:41:44.452Z] DEBUG - Unable to locate flag file for Åland(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\land.png')
+[2020-05-16T07:41:44.453Z] DEBUG - Unable to locate flag file for Jersey(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Jersey.png')
+[2020-05-16T07:41:44.454Z] DEBUG - Unable to locate flag file for Angola(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Angola.png')
+[2020-05-16T07:41:44.455Z] DEBUG - Unable to locate flag file for French Guiana(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\French_Guiana.png')
+[2020-05-16T07:41:44.455Z] DEBUG - Unable to locate flag file for Réunion(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Runion.png')
+[2020-05-16T07:41:44.456Z] DEBUG - Unable to locate flag file for Isle of Man(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Isle_of_Man.png')
+[2020-05-16T07:41:44.457Z] DEBUG - Unable to locate flag file for Gambia(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Gambia.png')
+[2020-05-16T07:41:44.458Z] DEBUG - Unable to locate flag file for American Samoa(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\American_Samoa.png')
+[2020-05-16T07:41:44.458Z] DEBUG - Unable to locate flag file for Republic of Lithuania(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Republic_of_Lithuania.png')
+[2020-05-16T07:41:44.460Z] DEBUG - Unable to locate flag file for South Sudan(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\South_Sudan.png')
+[2020-05-16T07:41:44.461Z] DEBUG - Unable to locate flag file for South Georgia and the South Sandwich Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\South_Georgia_and_the_South_Sandwich_Islands.png')
+[2020-05-16T07:41:44.463Z] DEBUG - Unable to locate flag file for Falkland Islands(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Falkland_Islands.png')
+[2020-05-16T07:41:44.464Z] DEBUG - Unable to locate flag file for French Southern Territories(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\French_Southern_Territories.png')
+[2020-05-16T07:41:44.465Z] DEBUG - Unable to locate flag file for Hashemite Kingdom of Jordan(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Hashemite_Kingdom_of_Jordan.png')
+[2020-05-16T07:41:44.465Z] DEBUG - Unable to locate flag file for Puerto Rico(expected 'C:\Users\DELL\Desktop\app_1\images\logical\country\Puerto_Rico.png')
+[2020-05-16T07:41:44.565Z] DEBUG - Configuration:
+[2020-05-16T07:41:44.566Z] DEBUG -   [WIRESHARK_EXEC]: 'E:\program_files\wireshark\Wireshark.exe'
+[2020-05-16T07:41:44.567Z] DEBUG -   [TEXT_EDITOR_EXEC]: 'C:\Windows\System32\Notepad.exe'
+[2020-05-16T07:41:44.567Z] DEBUG -   [PDF_VIEWER_EXEC]: 'null'
+[2020-05-16T07:41:44.568Z] DEBUG -   [DIR_INSTALL]: '.'
+[2020-05-16T07:41:44.568Z] DEBUG -   [DIR_IMAGES_ICON]: 'images'
+[2020-05-16T07:41:44.569Z] DEBUG -   [PATH_MANUFACTURER_DB]: 'E:\program_files\wireshark\manuf'
+[2020-05-16T07:41:44.569Z] DEBUG -   [PATH_USERGUIDE]: 'data\reference\GRASSMARLIN_User_Guide3.2.pdf'
+[2020-05-16T07:41:44.569Z] DEBUG -   [DIR_CORE_FINGERPRINTS]: 'data\fingerprint'
+[2020-05-16T07:41:44.570Z] DEBUG -   [DIR_LIVE_CAPTURE]: 'C:\Users\DELL\Desktop\app_1\livecaptures'
+[2020-05-16T07:41:44.570Z] DEBUG -   [DIR_LOGS]: 'C:\Users\DELL\Desktop\app_1\logs'
+[2020-05-16T07:41:44.570Z] DEBUG -   [DIR_USER_FINGERPRINTS]: 'C:\Users\DELL\Desktop\app_1\fingerprints'
+[2020-05-16T07:41:44.659Z] DEBUG -   [DIR_QUICKLIST]: 'C:\Users\DELL\Documents\GrassMarlin\quicklist'
+[2020-05-16T07:41:44.659Z] DEBUG -   [DIR_SESSIONS]: 'C:\Users\DELL\Documents\GrassMarlin'
+[2020-05-16T07:41:44.660Z] DEBUG -   [PCAP_FLAG_MODE]: '1'
+[2020-05-16T07:41:44.660Z] DEBUG -   [PCAP_FLAG_SNAPLEN]: '0xFFFF'
+[2020-05-16T07:41:44.660Z] DEBUG -   [PCAP_FLAG_TIMEOUT]: '30000'
+[2020-05-16T07:41:44.661Z] DEBUG -   [PCAP_FLAG_CAPTURE_LIMIT]: '-1'
+[2020-05-16T07:41:44.661Z] DEBUG -   [PATH_PCAP_FILTERS]: 'C:\Users\DELL\Desktop\app_1\PcapFilters.txt'
+[2020-05-16T07:41:44.661Z] DEBUG -   [PCAP_FILTER_STRING]: ' '
+[2020-05-16T07:41:44.662Z] DEBUG -   [PCAP_FILTER_TITLE]: 'ALLOW ALL TRAFFIC'
+[2020-05-16T07:41:44.662Z] DEBUG -   [UI_VIEW_UPDATE_DELAY]: '1500'
+[2020-05-16T07:41:44.663Z] DEBUG -   [COLOR_NODE_NEW]: '0000FF'
+[2020-05-16T07:41:44.663Z] DEBUG -   [COLOR_NODE_MODIFIED]: '00FF00'
+[2020-05-16T07:41:44.663Z] DEBUG -   [COLOR_NODE_BACKGROUND]: '000000'
+[2020-05-16T07:41:44.664Z] DEBUG -   [COLOR_NODE_HIGHLIGHT]: 'FFFF00'
+[2020-05-16T07:41:44.664Z] DEBUG -   [COLOR_NODE_TEXT]: 'FFFFFF'
+[2020-05-16T07:41:44.665Z] DEBUG -   [LOGICAL_CREATE_DYNAMIC_SUBNETS]: 'true'
+[2020-05-16T07:41:44.665Z] DEBUG -   [LOGICAL_DYNAMIC_SUBNET_BITS]: '24'
+[2020-05-16T07:41:44.665Z] DEBUG -   [LAST_RUN_VERSION]: '3.2.1'
+[2020-05-16T07:41:44.666Z] DEBUG -   [SUPPRESS_UNCHANGED_VERSION_NOTES]: 'true'
+[2020-05-16T07:41:44.666Z] DEBUG -   [FINGERPRINT_SAVEAS_LEAVES_OLD]: 'true'
+[2020-05-16T07:41:44.970Z] Information - Loaded plugin 'iadgov.csvimport'
+[2020-05-16T07:41:44.972Z] Information - Loaded plugin 'iadgov.offlinepcap'
+[2020-05-16T07:41:44.973Z] Information - Loaded plugin 'iadgov.sessioneventtest'
+[2020-05-16T07:41:44.974Z] Information - Loaded plugin 'iadgov.svgexport'
+[2020-05-16T07:41:48.057Z] Success - New Session: core.document.Session@23778a1f
+[2020-05-16T07:41:48.067Z] Information - Beginning Import of [iadgov.offlinepcap.PCAPImport: 2_comm.pcap]
+[2020-05-16T07:41:48.129Z] Information - [iadgov.offlinepcap.PCAPImport: 2_comm.pcap]: Import has completed.
