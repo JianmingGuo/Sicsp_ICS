@@ -1,14 +1,15 @@
 import os
 
+
 def nessus(path):
-    filename=os.path.basename(path)
+    filename = os.path.basename(path)
 
-    _path='/root/ICS/mulval/testcases/nessus/'
-    name,a=filename.split('.')
-    des_path=_path+name
-    dir_path=des_path
+    _path = './ToMulVAL/nessus/'
+    name, a = filename.split('.')
+    des_path = _path + name
+    dir_path = des_path
 
-    i=1
+    i = 1
 
     while (os.path.exists(dir_path)):
         dir_path = des_path + '_' + str(i)
@@ -21,9 +22,8 @@ def nessus(path):
 
     get_config(dir_path)
 
-    cmd='cp %s %s' % (path,dir_path)
+    cmd = 'cp %s %s' % (path, dir_path)
     os.system(cmd)
-
 
     # cmd='cd %s'%(dir_path)
     # os.system(cmd)
@@ -36,12 +36,22 @@ def nessus(path):
     print(cmd)
     os.system(cmd)
 
+    # os.chdir(./../../..)
+    print(os.getcwd())
+
+    res_path = 'nessus.P'
+    down_path = '../../download/'
+    cmd = 'cp %s %s' % (res_path, down_path)
+    os.system(cmd)
+
+
 def get_config(dir_path):
-    fullpath=dir_path+'/config'+'.txt'
-    file=open(fullpath,'w')
-    msg='jdbc:mysql://39.100.88.210:3306/nvd\nmulval\nmulval\n'
+    fullpath = dir_path + '/config' + '.txt'
+    file = open(fullpath, 'w')
+    msg = 'jdbc:mysql://39.100.88.210:3306/nvd\nmulval\nmulval\n'
 
     file.write(msg)
 
-a='/root/ICS/mulval/testcases/nessus/example.nessus'
+
+a = './ToMulVAL/upload/example.nessus'
 nessus(a)
