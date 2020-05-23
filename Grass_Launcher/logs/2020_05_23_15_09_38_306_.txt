@@ -1,0 +1,102 @@
+[2020-05-23T15:09:38.384Z] Information - Logging subsystem initialized.
+[2020-05-23T15:09:38.386Z] DEBUG - GrassMarlin 3.2.1-r26
+[2020-05-23T15:09:38.389Z] Information - Loading Cidr -> GeoId Mapping from: D:\code_new\git\mulval_ICS\Grass_Launcher\grass\data\cidr_to_geo_id.csv
+[2020-05-23T15:09:38.757Z] Information - Cidr -> GeoId Mapping load complete.
+[2020-05-23T15:09:38.758Z] Information - Loading GeoId -> Name Mapping from: D:\code_new\git\mulval_ICS\Grass_Launcher\grass\data\geo_id_to_name.csv
+[2020-05-23T15:09:38.761Z] Information - GeoId -> Name Mapping load complete.
+[2020-05-23T15:09:38.793Z] DEBUG - GeoIp lookup for country Id 6255148 failed: 62.208.62.224/27, 62.208.62.128/26, 194.196.194.0/23, 62.208.62.0/25, 62.208....
+[2020-05-23T15:09:38.807Z] DEBUG - GeoIp lookup for country Id 6255147 failed: 199.40.206.0/24, 170.252.160.1, 199.40.204.0/24, 32.60.44.0/24, 203.92.218.0/...
+[2020-05-23T15:09:38.836Z] DEBUG - Unable to locate flag file for Saint Martin(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Saint_Martin.png')
+[2020-05-23T15:09:38.836Z] DEBUG - Unable to locate flag file for New Caledonia(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\New_Caledonia.png')
+[2020-05-23T15:09:38.837Z] DEBUG - Unable to locate flag file for Palau(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Palau.png')
+[2020-05-23T15:09:38.837Z] DEBUG - Unable to locate flag file for British Indian Ocean Territory(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\British_Indian_Ocean_Territory.png')
+[2020-05-23T15:09:38.838Z] DEBUG - Unable to locate flag file for Mayotte(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Mayotte.png')
+[2020-05-23T15:09:38.839Z] DEBUG - Unable to locate flag file for Guernsey(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Guernsey.png')
+[2020-05-23T15:09:38.839Z] DEBUG - Unable to locate flag file for Curaçao(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Curaao.png')
+[2020-05-23T15:09:38.840Z] DEBUG - Unable to locate flag file for Bonaire(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Bonaire.png')
+[2020-05-23T15:09:38.840Z] DEBUG - Unable to locate flag file for Republic of the Congo(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Republic_of_the_Congo.png')
+[2020-05-23T15:09:38.841Z] DEBUG - Unable to locate flag file for Congo(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Congo.png')
+[2020-05-23T15:09:38.842Z] DEBUG - Unable to locate flag file for Macao(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Macao.png')
+[2020-05-23T15:09:38.843Z] DEBUG - Unable to locate flag file for Bermuda(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Bermuda.png')
+[2020-05-23T15:09:38.843Z] DEBUG - Unable to locate flag file for Saint-Barthélemy(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\SaintBarthlemy.png')
+[2020-05-23T15:09:38.843Z] DEBUG - Unable to locate flag file for Tokelau(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Tokelau.png')
+[2020-05-23T15:09:38.844Z] DEBUG - Unable to locate flag file for Turks and Caicos Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Turks_and_Caicos_Islands.png')
+[2020-05-23T15:09:38.844Z] DEBUG - Unable to locate flag file for Cocos [Keeling] Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Cocos_Keeling_Islands.png')
+[2020-05-23T15:09:38.845Z] DEBUG - Unable to locate flag file for Wallis and Futuna(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Wallis_and_Futuna.png')
+[2020-05-23T15:09:38.845Z] DEBUG - Unable to locate flag file for Ivory Coast(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Ivory_Coast.png')
+[2020-05-23T15:09:38.846Z] DEBUG - Unable to locate flag file for Saint Pierre and Miquelon(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Saint_Pierre_and_Miquelon.png')
+[2020-05-23T15:09:38.847Z] DEBUG - Unable to locate flag file for U.S. Minor Outlying Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\US_Minor_Outlying_Islands.png')
+[2020-05-23T15:09:38.848Z] DEBUG - Unable to locate flag file for Martinique(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Martinique.png')
+[2020-05-23T15:09:38.848Z] DEBUG - Unable to locate flag file for Antarctica(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Antarctica.png')
+[2020-05-23T15:09:38.849Z] DEBUG - Unable to locate flag file for Northern Mariana Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Northern_Mariana_Islands.png')
+[2020-05-23T15:09:38.849Z] DEBUG - Unable to locate flag file for Montserrat(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Montserrat.png')
+[2020-05-23T15:09:38.850Z] DEBUG - Unable to locate flag file for Saint Helena(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Saint_Helena.png')
+[2020-05-23T15:09:38.851Z] DEBUG - Unable to locate flag file for Pitcairn Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Pitcairn_Islands.png')
+[2020-05-23T15:09:38.852Z] DEBUG - Unable to locate flag file for Guam(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Guam.png')
+[2020-05-23T15:09:38.853Z] DEBUG - Unable to locate flag file for Myanmar [Burma](expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Myanmar_Burma.png')
+[2020-05-23T15:09:38.855Z] DEBUG - Unable to locate flag file for Palestine(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Palestine.png')
+[2020-05-23T15:09:38.855Z] DEBUG - Unable to locate flag file for Cayman Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Cayman_Islands.png')
+[2020-05-23T15:09:38.856Z] DEBUG - Unable to locate flag file for Western Sahara(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Western_Sahara.png')
+[2020-05-23T15:09:38.856Z] DEBUG - Unable to locate flag file for São Tomé and Príncipe(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\So_Tom_and_Prncipe.png')
+[2020-05-23T15:09:38.857Z] DEBUG - Unable to locate flag file for Sint Maarten(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Sint_Maarten.png')
+[2020-05-23T15:09:38.857Z] DEBUG - Unable to locate flag file for U.S. Virgin Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\US_Virgin_Islands.png')
+[2020-05-23T15:09:38.858Z] DEBUG - Unable to locate flag file for Anguilla(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Anguilla.png')
+[2020-05-23T15:09:38.858Z] DEBUG - Unable to locate flag file for Guadeloupe(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Guadeloupe.png')
+[2020-05-23T15:09:38.859Z] DEBUG - Unable to locate flag file for British Virgin Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\British_Virgin_Islands.png')
+[2020-05-23T15:09:38.860Z] DEBUG - Unable to locate flag file for Svalbard and Jan Mayen(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Svalbard_and_Jan_Mayen.png')
+[2020-05-23T15:09:38.860Z] DEBUG - Unable to locate flag file for Åland(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\land.png')
+[2020-05-23T15:09:38.860Z] DEBUG - Unable to locate flag file for Jersey(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Jersey.png')
+[2020-05-23T15:09:38.860Z] DEBUG - Unable to locate flag file for Angola(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Angola.png')
+[2020-05-23T15:09:38.862Z] DEBUG - Unable to locate flag file for French Guiana(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\French_Guiana.png')
+[2020-05-23T15:09:38.862Z] DEBUG - Unable to locate flag file for Réunion(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Runion.png')
+[2020-05-23T15:09:38.863Z] DEBUG - Unable to locate flag file for Isle of Man(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Isle_of_Man.png')
+[2020-05-23T15:09:38.863Z] DEBUG - Unable to locate flag file for Gambia(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Gambia.png')
+[2020-05-23T15:09:38.864Z] DEBUG - Unable to locate flag file for American Samoa(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\American_Samoa.png')
+[2020-05-23T15:09:38.865Z] DEBUG - Unable to locate flag file for Republic of Lithuania(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Republic_of_Lithuania.png')
+[2020-05-23T15:09:38.866Z] DEBUG - Unable to locate flag file for South Sudan(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\South_Sudan.png')
+[2020-05-23T15:09:38.867Z] DEBUG - Unable to locate flag file for South Georgia and the South Sandwich Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\South_Georgia_and_the_South_Sandwich_Islands.png')
+[2020-05-23T15:09:38.868Z] DEBUG - Unable to locate flag file for Falkland Islands(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Falkland_Islands.png')
+[2020-05-23T15:09:38.868Z] DEBUG - Unable to locate flag file for French Southern Territories(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\French_Southern_Territories.png')
+[2020-05-23T15:09:38.869Z] DEBUG - Unable to locate flag file for Hashemite Kingdom of Jordan(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Hashemite_Kingdom_of_Jordan.png')
+[2020-05-23T15:09:38.870Z] DEBUG - Unable to locate flag file for Puerto Rico(expected 'D:\code_new\git\mulval_ICS\Grass_Launcher\grass\images\logical\country\Puerto_Rico.png')
+[2020-05-23T15:09:38.872Z] Warning - Unable to load manufacturer database from Wireshark; MAC lookup will be disabled. (null)
+[2020-05-23T15:09:38.879Z] DEBUG - Configuration:
+[2020-05-23T15:09:38.879Z] DEBUG -   [WIRESHARK_EXEC]: 'null'
+[2020-05-23T15:09:38.881Z] DEBUG -   [TEXT_EDITOR_EXEC]: 'C:\Windows\System32\Notepad.exe'
+[2020-05-23T15:09:38.881Z] DEBUG -   [PDF_VIEWER_EXEC]: 'null'
+[2020-05-23T15:09:38.881Z] DEBUG -   [DIR_INSTALL]: '.'
+[2020-05-23T15:09:38.882Z] DEBUG -   [DIR_IMAGES_ICON]: 'images'
+[2020-05-23T15:09:38.882Z] DEBUG -   [PATH_MANUFACTURER_DB]: 'null'
+[2020-05-23T15:09:38.882Z] DEBUG -   [PATH_USERGUIDE]: 'data\reference\GRASSMARLIN_User_Guide3.2.pdf'
+[2020-05-23T15:09:38.883Z] DEBUG -   [DIR_CORE_FINGERPRINTS]: 'data\fingerprint'
+[2020-05-23T15:09:38.885Z] DEBUG -   [DIR_LIVE_CAPTURE]: 'D:\code_new\git\mulval_ICS\Grass_Launcher\livecaptures'
+[2020-05-23T15:09:38.886Z] DEBUG -   [DIR_LOGS]: 'D:\code_new\git\mulval_ICS\Grass_Launcher\logs'
+[2020-05-23T15:09:38.887Z] DEBUG -   [DIR_USER_FINGERPRINTS]: 'D:\code_new\git\mulval_ICS\Grass_Launcher\fingerprints'
+[2020-05-23T15:09:39.036Z] DEBUG -   [DIR_QUICKLIST]: 'C:\Users\ming-\Documents\GrassMarlin\quicklist'
+[2020-05-23T15:09:39.037Z] DEBUG -   [DIR_SESSIONS]: 'C:\Users\ming-\Documents\GrassMarlin'
+[2020-05-23T15:09:39.038Z] DEBUG -   [PCAP_FLAG_MODE]: '1'
+[2020-05-23T15:09:39.038Z] DEBUG -   [PCAP_FLAG_SNAPLEN]: '0xFFFF'
+[2020-05-23T15:09:39.038Z] DEBUG -   [PCAP_FLAG_TIMEOUT]: '30000'
+[2020-05-23T15:09:39.038Z] DEBUG -   [PCAP_FLAG_CAPTURE_LIMIT]: '-1'
+[2020-05-23T15:09:39.040Z] DEBUG -   [PATH_PCAP_FILTERS]: 'D:\code_new\git\mulval_ICS\Grass_Launcher\PcapFilters.txt'
+[2020-05-23T15:09:39.040Z] DEBUG -   [PCAP_FILTER_STRING]: ' '
+[2020-05-23T15:09:39.040Z] DEBUG -   [PCAP_FILTER_TITLE]: 'ALLOW ALL TRAFFIC'
+[2020-05-23T15:09:39.041Z] DEBUG -   [UI_VIEW_UPDATE_DELAY]: '1500'
+[2020-05-23T15:09:39.041Z] DEBUG -   [COLOR_NODE_NEW]: '0000FF'
+[2020-05-23T15:09:39.041Z] DEBUG -   [COLOR_NODE_MODIFIED]: '00FF00'
+[2020-05-23T15:09:39.041Z] DEBUG -   [COLOR_NODE_BACKGROUND]: '000000'
+[2020-05-23T15:09:39.042Z] DEBUG -   [COLOR_NODE_HIGHLIGHT]: 'FFFF00'
+[2020-05-23T15:09:39.042Z] DEBUG -   [COLOR_NODE_TEXT]: 'FFFFFF'
+[2020-05-23T15:09:39.043Z] DEBUG -   [LOGICAL_CREATE_DYNAMIC_SUBNETS]: 'true'
+[2020-05-23T15:09:39.043Z] DEBUG -   [LOGICAL_DYNAMIC_SUBNET_BITS]: '24'
+[2020-05-23T15:09:39.043Z] DEBUG -   [LAST_RUN_VERSION]: ''
+[2020-05-23T15:09:39.044Z] DEBUG -   [SUPPRESS_UNCHANGED_VERSION_NOTES]: 'true'
+[2020-05-23T15:09:39.044Z] DEBUG -   [FINGERPRINT_SAVEAS_LEAVES_OLD]: 'true'
+[2020-05-23T15:09:39.162Z] Warning - Cannot locate Wireshark; please verify the value in the Tools -> Preferences menu.
+[2020-05-23T15:09:39.731Z] Information - Loaded plugin 'iadgov.csvimport'
+[2020-05-23T15:09:39.734Z] Information - Loaded plugin 'iadgov.offlinepcap'
+[2020-05-23T15:09:39.737Z] Information - Loaded plugin 'iadgov.sessioneventtest'
+[2020-05-23T15:09:39.740Z] Information - Loaded plugin 'iadgov.svgexport'
+[2020-05-23T15:09:43.114Z] Success - New Session: core.document.Session@4fb806b2
+[2020-05-23T15:09:43.141Z] Information - Beginning Import of [iadgov.offlinepcap.PCAPImport: import.pcap]
+[2020-05-23T15:09:52.670Z] Information - [iadgov.offlinepcap.PCAPImport: import.pcap]: Import has completed.

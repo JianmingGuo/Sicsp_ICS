@@ -55,15 +55,23 @@ def delete_tables():
         text.update()
 
 def thread_start():
+    print('OK')
     global fn
+    print('OK1')
     thread = threading.Thread(target=grass,args=(fn,e.get()))
+    print('OK2')
     thread.start()
 
 def grass(fn,tab):
     if(fn != '' and tab != ''):
+        text.insert(END, "正在打开Grass_topology...请稍等")
+        text.see(END)
+        text.update()
         cmd = ".\grass\java_Grass\jdk8\\bin\java -classpath .;.\java_Grass\jdk8\lib\dt.jar;.\java_Grass\jdk8\lib\\tools.jar; -jar grass\GrassMarlin.jar "+fn+" "+tab
-
         os.system(cmd)
+        text.insert(END, "打开成功！！")
+        text.see(END)
+        text.update()
 
 root = Tk()
 root.title("Launcher Window")

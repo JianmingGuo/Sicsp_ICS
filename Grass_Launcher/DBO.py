@@ -31,8 +31,8 @@ class DBO:
                             `RR` varchar(200) DEFAULT NULL,\
                             PRIMARY KEY (`MAC`)\
                             ) ENGINE=InnoDB DEFAULT CHARSET=latin1"
-
-        create_sql2="CREATE TABLE `"+tab_name+"` (\
+        tab_name2= tab+"_edges"
+        create_sql2="CREATE TABLE `"+tab_name2+"` (\
                           `Src` varchar(100) NOT NULL,\
                           `Dest` varchar(100) NOT NULL,\
                           `Proto` varchar(100) NOT NULL,\
@@ -40,12 +40,11 @@ class DBO:
                         ) ENGINE=InnoDB DEFAULT CHARSET=latin1"
         try :
             self.cursor.execute(create_sql1)
-            tab_name = tab+"_edges"
             self.cursor.execute(create_sql2)
             self.conn.commit()
         except:
             flag=0
-            return flag
+        return flag
 
     def delete_table(self,tab):
         flag=1
