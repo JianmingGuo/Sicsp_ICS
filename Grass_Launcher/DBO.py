@@ -10,8 +10,9 @@ class DBO:
 
 
     def create_table(self,tab):
+        flag=1
         tab_name = tab+"_device"
-        self.cursor.execute("CREATE TABLE `"+tab_name+"` (\
+        create_sql1="CREATE TABLE `"+tab_name+"` (\
                             `MAC` varchar(200) NOT NULL,\
                             `IP` varchar(20) DEFAULT NULL,\
                             `MODEL` varchar(200) DEFAULT NULL,\
@@ -29,20 +30,32 @@ class DBO:
                             `WR` varchar(200) DEFAULT NULL,\
                             `RR` varchar(200) DEFAULT NULL,\
                             PRIMARY KEY (`MAC`)\
-                            ) ENGINE=InnoDB DEFAULT CHARSET=latin1")
-        tab_name = tab+"_edges"
-        self.cursor.execute("CREATE TABLE `"+tab_name+"` (\
+                            ) ENGINE=InnoDB DEFAULT CHARSET=latin1"
+
+        create_sql2="CREATE TABLE `"+tab_name+"` (\
                           `Src` varchar(100) NOT NULL,\
                           `Dest` varchar(100) NOT NULL,\
                           `Proto` varchar(100) NOT NULL,\
                           PRIMARY KEY (`Src`,`Dest`,`Proto`)\
-                        ) ENGINE=InnoDB DEFAULT CHARSET=latin1")
-        self.conn.commit()
+                        ) ENGINE=InnoDB DEFAULT CHARSET=latin1"
+        try :
+            self.cursor.execute(create_sql1)
+            tab_name = tab+"_edges"
+            self.cursor.execute(create_sql2)
+            self.conn.commit()
+        except:
+            flag=0
+            return flag
 
     def delete_table(self,tab):
-        self.cursor.execute("drop table "+tab+"_device")
-        self.cursor.execute("drop table "+tab+"_edges")
-        self.conn.commit()
+        flag=1
+        try:
+            self.cursor.execute("drop table "+tab+"_device")
+            self.cursor.execute("drop table "+tab+"_edges")
+            self.conn.commit()
+        except:
+            flag=0
+        return flag
 
     def close(self):
         self.cursor.close() # 关闭光标对象
