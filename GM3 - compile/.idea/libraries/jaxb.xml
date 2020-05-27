@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="jaxb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-api-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-xjc-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-impl.src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-jxc-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-xjc.src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-jxc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-impl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-core.src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-jxc.src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-core-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-api-doc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resource/jaxb/jaxb-xjc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

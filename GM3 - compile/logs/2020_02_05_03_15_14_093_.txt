@@ -1,0 +1,6 @@
+[2020-02-05T03:15:14.207Z] Information - Logging subsystem initialized.
+[2020-02-05T03:15:14.237Z] DEBUG - GrassMarlin 3.2.1-r26
+[2020-02-05T03:24:46.248Z] Information - Loading Cidr -> GeoId Mapping from: F:\JavaProjects_IDEA\GM3\data\cidr_to_geo_id.csv
+[2020-02-05T03:32:36.706Z] Information - Cidr -> GeoId Mapping load complete.
+[2020-02-05T04:27:52.274Z] Information - Loading GeoId -> Name Mapping from: F:\JavaProjects_IDEA\GM3\data\geo_id_to_name.csv
+[2020-02-05T04:27:52.279Z] Information - GeoId -> Name Mapping load complete.

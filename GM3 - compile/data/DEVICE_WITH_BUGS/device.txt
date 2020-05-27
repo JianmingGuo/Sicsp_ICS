@@ -1,0 +1,68 @@
+Cisco Nexus 1000V
+Moxa PT-7828
+Moxa EDS-510E
+Emerson Electric OpenEnterprise
+Schneider Electric ClearSCADA 2017
+Advantech Advantech WebAccess &lt;8.4.3
+SINEMA Server
+Siemens SPPA-T3000 MS3000 Migration Server
+Siemens SPPA-T3000 Application Server
+Cobham plc EXPLORER 710 1.07
+Schneider Electric  Modicon Quantum 
+Schneider Electric Modicon M340 
+Schneider Electric BMXNOR0200 
+Schneider Electric Premium 
+Schneider Electric Quantum PLCs 
+Siemens S7-400
+Advantech WebAccess 8.3.1
+Advantech WebAccess 8.3.2
+GAIN Electronic SAGA1-L series &lt;=A0.10
+Wecon Technologies PI Studio HMI &lt;=4.1.9
+Carestream Vue RIS &lt;=11.2
+SIEMENS ROX II &lt; V2.12.1
+Fuji Electric V-Server VPR &lt;=4.0.3.0
+Siemens WinCC OA &lt;=V3.14
+GE iFIX 5.5
+OMRON CX-Supervisor &lt;=3.4.1.0
+WECON LeviStudioU 1.8.29
+WECON LeviStudioU 1.8.44
+Davolink DVW-3200N  &lt;1.00.06
+Eaton 9000X Drive &lt;=2.0.29
+Siemens SICLOCK TC100 Siemens SICLOCK TC400 
+Circontrol CirCarLife Scada 4.2.4
+Natus Medical Natus Xltek NeuroWorks 8
+SIEMENS SCALANCE M875 
+ABB IP Gateway &lt;=3.39
+PHOENIX CONTACT FL SWITCH 3xxx &gt;=1.0，&lt;=1.32
+PHOENIX CONTACT FL SWITCH 4xxx &gt;=1.0，&lt;=1.32
+PHOENIX CONTACT FL SWITCH 48xxx Series &gt;=1.0，&lt;=1.32
+Philips Brilliance 64 &lt;=2.6.2
+Philips Brilliance iCT &lt;=4.1.6
+Philips Brillance iCT SP &lt;=3.2.4
+Philips Brilliance CT Big Bore &lt;= 2.3.5
+Delta Electronics PMSoft &lt;=2.10
+Schneider Electric U.motion Builder &lt;1.3.4
+Philips Alice 6 &lt;=R8.0.2
+OMRON CX-Supervisor &lt;=3.30
+OSISoft PI Web API &lt;=2017 R2
+Nortek Linear eMerge E3 series &lt;=V0.32-07e
+Schneider Electric IGSS SCADA Software &lt;=12
+Vyaire Medical CareFusion Upgrade Utility &lt;=2.0.2.2
+Fuji Electric V-Server VPR &lt;=4.0.1.0
+3S-Smart Software Solutions CODESYS Web Server &lt;1.1.9.19
+Sprecher Automation GmbH 
+Sprecher Automation SPRECON-E-C，PU-2433 &lt;8.49
+Philips IntelliSpace Cardiovascular &lt;=2.3.0
+PHOENIX CONTACT mGuard &gt;=7.2，&lt;=8.6.0
+Moxa NPort W2150A &lt;1.11
+Moxa NPort W2250A &lt;1.11
+ABB Ellipse &gt;=8.3，&lt;=8.9
+Ecava IntegraXor &lt;=6.1.1030.1
+Kabona AB WebDatorCentral &lt;3.4.0
+Trihedral Engineering Limited VTScada &lt;=11.3.03
+Wi-Fi Alliance Wi-Fi Protected Access 2(WPA2) 
+ProMinent MultiFLEX M10a Controller 
+Wibu-Systems CodeMeter &lt;6.50b
+Smiths Medical Medfusion 4000 Wireless Syringe Infusion Pump 1.1
+Smiths Medical Medfusion 4000 Wireless Syringe Infusion Pump 1.5
+Smiths Medical Medfusion 4000 Wireless Syringe Infusion Pump 1.6

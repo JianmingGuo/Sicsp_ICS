@@ -1,0 +1,100 @@
+[2020-02-03T11:57:24.729Z] Information - Logging subsystem initialized.
+[2020-02-03T11:57:24.730Z] DEBUG - GrassMarlin 3.2.1-r26
+[2020-02-03T11:57:24.732Z] Information - Loading Cidr -> GeoId Mapping from: F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\data\cidr_to_geo_id.csv
+[2020-02-03T11:57:24.932Z] Information - Cidr -> GeoId Mapping load complete.
+[2020-02-03T11:57:24.933Z] Information - Loading GeoId -> Name Mapping from: F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\data\geo_id_to_name.csv
+[2020-02-03T11:57:24.934Z] Information - GeoId -> Name Mapping load complete.
+[2020-02-03T11:57:24.950Z] DEBUG - GeoIp lookup for country Id 6255148 failed: 62.208.62.224/27, 62.208.62.128/26, 194.196.194.0/23, 62.208.62.0/25, 62.208....
+[2020-02-03T11:57:24.961Z] DEBUG - GeoIp lookup for country Id 6255147 failed: 199.40.206.0/24, 170.252.160.1, 199.40.204.0/24, 32.60.44.0/24, 203.92.218.0/...
+[2020-02-03T11:57:24.973Z] DEBUG - Unable to locate flag file for Saint Martin(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Saint_Martin.png')
+[2020-02-03T11:57:24.974Z] DEBUG - Unable to locate flag file for New Caledonia(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\New_Caledonia.png')
+[2020-02-03T11:57:24.974Z] DEBUG - Unable to locate flag file for Palau(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Palau.png')
+[2020-02-03T11:57:24.976Z] DEBUG - Unable to locate flag file for British Indian Ocean Territory(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\British_Indian_Ocean_Territory.png')
+[2020-02-03T11:57:24.976Z] DEBUG - Unable to locate flag file for Mayotte(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Mayotte.png')
+[2020-02-03T11:57:24.977Z] DEBUG - Unable to locate flag file for Guernsey(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Guernsey.png')
+[2020-02-03T11:57:24.978Z] DEBUG - Unable to locate flag file for Curaçao(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Curaao.png')
+[2020-02-03T11:57:24.978Z] DEBUG - Unable to locate flag file for Bonaire(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Bonaire.png')
+[2020-02-03T11:57:24.980Z] DEBUG - Unable to locate flag file for Republic of the Congo(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Republic_of_the_Congo.png')
+[2020-02-03T11:57:24.983Z] DEBUG - Unable to locate flag file for Congo(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Congo.png')
+[2020-02-03T11:57:24.984Z] DEBUG - Unable to locate flag file for Macao(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Macao.png')
+[2020-02-03T11:57:24.985Z] DEBUG - Unable to locate flag file for Bermuda(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Bermuda.png')
+[2020-02-03T11:57:24.985Z] DEBUG - Unable to locate flag file for Saint-Barthélemy(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\SaintBarthlemy.png')
+[2020-02-03T11:57:24.988Z] DEBUG - Unable to locate flag file for Tokelau(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Tokelau.png')
+[2020-02-03T11:57:24.993Z] DEBUG - Unable to locate flag file for Turks and Caicos Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Turks_and_Caicos_Islands.png')
+[2020-02-03T11:57:24.994Z] DEBUG - Unable to locate flag file for Cocos [Keeling] Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Cocos_Keeling_Islands.png')
+[2020-02-03T11:57:24.994Z] DEBUG - Unable to locate flag file for Wallis and Futuna(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Wallis_and_Futuna.png')
+[2020-02-03T11:57:24.994Z] DEBUG - Unable to locate flag file for Ivory Coast(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Ivory_Coast.png')
+[2020-02-03T11:57:24.995Z] DEBUG - Unable to locate flag file for Saint Pierre and Miquelon(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Saint_Pierre_and_Miquelon.png')
+[2020-02-03T11:57:24.996Z] DEBUG - Unable to locate flag file for U.S. Minor Outlying Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\US_Minor_Outlying_Islands.png')
+[2020-02-03T11:57:24.997Z] DEBUG - Unable to locate flag file for Martinique(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Martinique.png')
+[2020-02-03T11:57:24.997Z] DEBUG - Unable to locate flag file for Antarctica(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Antarctica.png')
+[2020-02-03T11:57:25Z] DEBUG - Unable to locate flag file for Northern Mariana Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Northern_Mariana_Islands.png')
+[2020-02-03T11:57:25.002Z] DEBUG - Unable to locate flag file for Montserrat(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Montserrat.png')
+[2020-02-03T11:57:25.002Z] DEBUG - Unable to locate flag file for Saint Helena(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Saint_Helena.png')
+[2020-02-03T11:57:25.003Z] DEBUG - Unable to locate flag file for Pitcairn Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Pitcairn_Islands.png')
+[2020-02-03T11:57:25.004Z] DEBUG - Unable to locate flag file for Guam(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Guam.png')
+[2020-02-03T11:57:25.004Z] DEBUG - Unable to locate flag file for Myanmar [Burma](expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Myanmar_Burma.png')
+[2020-02-03T11:57:25.006Z] DEBUG - Unable to locate flag file for Palestine(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Palestine.png')
+[2020-02-03T11:57:25.006Z] DEBUG - Unable to locate flag file for Cayman Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Cayman_Islands.png')
+[2020-02-03T11:57:25.007Z] DEBUG - Unable to locate flag file for Western Sahara(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Western_Sahara.png')
+[2020-02-03T11:57:25.010Z] DEBUG - Unable to locate flag file for São Tomé and Príncipe(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\So_Tom_and_Prncipe.png')
+[2020-02-03T11:57:25.011Z] DEBUG - Unable to locate flag file for Sint Maarten(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Sint_Maarten.png')
+[2020-02-03T11:57:25.012Z] DEBUG - Unable to locate flag file for U.S. Virgin Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\US_Virgin_Islands.png')
+[2020-02-03T11:57:25.013Z] DEBUG - Unable to locate flag file for Anguilla(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Anguilla.png')
+[2020-02-03T11:57:25.014Z] DEBUG - Unable to locate flag file for Guadeloupe(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Guadeloupe.png')
+[2020-02-03T11:57:25.015Z] DEBUG - Unable to locate flag file for British Virgin Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\British_Virgin_Islands.png')
+[2020-02-03T11:57:25.016Z] DEBUG - Unable to locate flag file for Svalbard and Jan Mayen(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Svalbard_and_Jan_Mayen.png')
+[2020-02-03T11:57:25.016Z] DEBUG - Unable to locate flag file for Åland(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\land.png')
+[2020-02-03T11:57:25.017Z] DEBUG - Unable to locate flag file for Jersey(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Jersey.png')
+[2020-02-03T11:57:25.020Z] DEBUG - Unable to locate flag file for Angola(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Angola.png')
+[2020-02-03T11:57:25.022Z] DEBUG - Unable to locate flag file for French Guiana(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\French_Guiana.png')
+[2020-02-03T11:57:25.023Z] DEBUG - Unable to locate flag file for Réunion(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Runion.png')
+[2020-02-03T11:57:25.025Z] DEBUG - Unable to locate flag file for Isle of Man(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Isle_of_Man.png')
+[2020-02-03T11:57:25.025Z] DEBUG - Unable to locate flag file for Gambia(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Gambia.png')
+[2020-02-03T11:57:25.026Z] DEBUG - Unable to locate flag file for American Samoa(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\American_Samoa.png')
+[2020-02-03T11:57:25.026Z] DEBUG - Unable to locate flag file for Republic of Lithuania(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Republic_of_Lithuania.png')
+[2020-02-03T11:57:25.028Z] DEBUG - Unable to locate flag file for South Sudan(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\South_Sudan.png')
+[2020-02-03T11:57:25.028Z] DEBUG - Unable to locate flag file for South Georgia and the South Sandwich Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\South_Georgia_and_the_South_Sandwich_Islands.png')
+[2020-02-03T11:57:25.029Z] DEBUG - Unable to locate flag file for Falkland Islands(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Falkland_Islands.png')
+[2020-02-03T11:57:25.032Z] DEBUG - Unable to locate flag file for French Southern Territories(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\French_Southern_Territories.png')
+[2020-02-03T11:57:25.033Z] DEBUG - Unable to locate flag file for Hashemite Kingdom of Jordan(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Hashemite_Kingdom_of_Jordan.png')
+[2020-02-03T11:57:25.034Z] DEBUG - Unable to locate flag file for Puerto Rico(expected 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\images\logical\country\Puerto_Rico.png')
+[2020-02-03T11:57:25.036Z] Warning - Unable to load manufacturer database from Wireshark; MAC lookup will be disabled. (null)
+[2020-02-03T11:57:25.043Z] DEBUG - Configuration:
+[2020-02-03T11:57:25.044Z] DEBUG -   [WIRESHARK_EXEC]: 'null'
+[2020-02-03T11:57:25.046Z] DEBUG -   [TEXT_EDITOR_EXEC]: 'C:\Windows\System32\Notepad.exe'
+[2020-02-03T11:57:25.046Z] DEBUG -   [PDF_VIEWER_EXEC]: 'null'
+[2020-02-03T11:57:25.047Z] DEBUG -   [DIR_INSTALL]: '.'
+[2020-02-03T11:57:25.047Z] DEBUG -   [DIR_IMAGES_ICON]: 'images'
+[2020-02-03T11:57:25.047Z] DEBUG -   [PATH_MANUFACTURER_DB]: 'null'
+[2020-02-03T11:57:25.048Z] DEBUG -   [PATH_USERGUIDE]: 'data\reference\GRASSMARLIN_User_Guide3.2.pdf'
+[2020-02-03T11:57:25.048Z] DEBUG -   [DIR_CORE_FINGERPRINTS]: 'data\fingerprint'
+[2020-02-03T11:57:25.052Z] DEBUG -   [DIR_LIVE_CAPTURE]: 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\livecaptures'
+[2020-02-03T11:57:25.053Z] DEBUG -   [DIR_LOGS]: 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\logs'
+[2020-02-03T11:57:25.054Z] DEBUG -   [DIR_USER_FINGERPRINTS]: 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\fingerprints'
+[2020-02-03T11:57:25.127Z] DEBUG -   [DIR_QUICKLIST]: 'C:\Users\DELL\Documents\GrassMarlin\quicklist'
+[2020-02-03T11:57:25.128Z] DEBUG -   [DIR_SESSIONS]: 'C:\Users\DELL\Documents\GrassMarlin'
+[2020-02-03T11:57:25.129Z] DEBUG -   [PCAP_FLAG_MODE]: '1'
+[2020-02-03T11:57:25.129Z] DEBUG -   [PCAP_FLAG_SNAPLEN]: '0xFFFF'
+[2020-02-03T11:57:25.130Z] DEBUG -   [PCAP_FLAG_TIMEOUT]: '30000'
+[2020-02-03T11:57:25.130Z] DEBUG -   [PCAP_FLAG_CAPTURE_LIMIT]: '-1'
+[2020-02-03T11:57:25.131Z] DEBUG -   [PATH_PCAP_FILTERS]: 'F:\项目\工控系统安全\work\GRASSMARLIN-master\GM3\PcapFilters.txt'
+[2020-02-03T11:57:25.132Z] DEBUG -   [PCAP_FILTER_STRING]: ' '
+[2020-02-03T11:57:25.132Z] DEBUG -   [PCAP_FILTER_TITLE]: 'ALLOW ALL TRAFFIC'
+[2020-02-03T11:57:25.133Z] DEBUG -   [UI_VIEW_UPDATE_DELAY]: '1500'
+[2020-02-03T11:57:25.133Z] DEBUG -   [COLOR_NODE_NEW]: '0000FF'
+[2020-02-03T11:57:25.134Z] DEBUG -   [COLOR_NODE_MODIFIED]: '00FF00'
+[2020-02-03T11:57:25.134Z] DEBUG -   [COLOR_NODE_BACKGROUND]: '000000'
+[2020-02-03T11:57:25.135Z] DEBUG -   [COLOR_NODE_HIGHLIGHT]: 'FFFF00'
+[2020-02-03T11:57:25.136Z] DEBUG -   [COLOR_NODE_TEXT]: 'FFFFFF'
+[2020-02-03T11:57:25.136Z] DEBUG -   [LOGICAL_CREATE_DYNAMIC_SUBNETS]: 'true'
+[2020-02-03T11:57:25.136Z] DEBUG -   [LOGICAL_DYNAMIC_SUBNET_BITS]: '24'
+[2020-02-03T11:57:25.139Z] DEBUG -   [LAST_RUN_VERSION]: '3.2.1'
+[2020-02-03T11:57:25.139Z] DEBUG -   [SUPPRESS_UNCHANGED_VERSION_NOTES]: 'true'
+[2020-02-03T11:57:25.141Z] DEBUG -   [FINGERPRINT_SAVEAS_LEAVES_OLD]: 'true'
+[2020-02-03T11:57:25.142Z] Warning - Unable to initialize JNetPCap; packet capture functionality will be disabled.
+[2020-02-03T11:57:25.142Z] Warning - Cannot locate Wireshark; please verify the value in the Tools -> Preferences menu.
+[2020-02-03T11:57:25.387Z] Warning - Unable to load Fingerprint at data\fingerprint\Review_Comments.txt
+[2020-02-03T11:57:25.412Z] Information - Loaded plugin 'iadgov.csvimport'
+[2020-02-03T11:57:25.413Z] Information - Loaded plugin 'iadgov.offlinepcap'
+[2020-02-03T11:57:25.414Z] Information - Loaded plugin 'iadgov.svgexport'

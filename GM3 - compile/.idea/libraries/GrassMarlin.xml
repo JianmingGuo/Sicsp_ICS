@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GrassMarlin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/GrassMarlin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
