@@ -545,7 +545,16 @@ def seekMpath(sublist):
     return tempMax
 
 
-def resultGener(attack_pathlist):
+def seekCnode(graph):
+    Cnode = graph.nodgrp[0]
+    for node in graph.nodgrp:
+        if node.type == 'OR':
+            if len(node.next) >= len(Cnode.next):
+                Cnode = node
+    return Cnode
+
+
+def resultGener(attack_pathlist, graph):
     dot = Digraph(comment='This is the result.', name="cluster_Attack_Paths")
     dot.attr(compound='true')
     dot.node("Attack Paths", "Bayesian Attack Paths", shape='tripleoctagon', color='blue')
@@ -566,7 +575,10 @@ def resultGener(attack_pathlist):
                 if nod.type == 'LEAF':
                     subdot.node(str(i) + '|' + nod.id, nod.id + ":" + nod.fact + ":" + nod.metric, shape='box')
                 elif nod.type == 'OR':
-                    subdot.node(str(i) + '|' + nod.id, nod.id + ":" + nod.fact + ":" + nod.metric, shape='diamond')
+                    if nod == seekCnode(graph):
+                        subdot.node(str(i) + '|' + nod.id, nod.id + ":" + nod.fact + ":" + nod.metric, shape='diamond', color='red')
+                    else:
+                        subdot.node(str(i) + '|' + nod.id, nod.id + ":" + nod.fact + ":" + nod.metric, shape='diamond')
                 elif nod.type == 'AND':
                     subdot.node(str(i) + '|' + nod.id, nod.id + ":" + nod.fact + ":" + nod.metric, shape='ellipse')
             for arc in subgraph.arcgrp:
@@ -578,6 +590,7 @@ def resultGener(attack_pathlist):
         dot.subgraph(sdot)
 
     return dot
+
 
 
 def isAimExist(graph, aim):
