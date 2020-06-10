@@ -646,7 +646,7 @@ def A2B(aim):
     print(dot.source)
     dot.render('./mulvala2b/src/mulvalsrc/output-graph.dot')
     
-    result = resultGener(attack_pathlist)
+    result = resultGener(attack_pathlist,graph)
     print(result.source)
     result.render('./mulvala2b/src/mulvalsrc/result.dot')
     return 0
